@@ -1,5 +1,5 @@
 var x = 0;
-var text = 'Project Edutivity Blog';
+var text = 'inGenius X Blog';
 var speed = 100;
 
 function ingeniusAnimation() {
