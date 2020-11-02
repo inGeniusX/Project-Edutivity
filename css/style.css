@@ -2377,7 +2377,9 @@ h3 {
     padding-bottom: 20px;
   }
 }
-
+ul .indentation-type {
+  list-style-type: circle;
+}
 /* line 116, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
 .portfolio_area .single_gallery .gallery_hover .hover_inner span {
   display: block;
